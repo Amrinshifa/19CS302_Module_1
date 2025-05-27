@@ -14,8 +14,8 @@ To write a C program to read the age of a person and determine whether he is eli
 ```
 /*
 Program to read the age of a person and determine whether he is eligible for marriage (eligible if age ≥ 21).
-Developed by: AASHIKA PARVEEN M R 
-RegisterNumber: 212223060002 
+Developed by: AMRIN SHIFA S 
+RegisterNumber: 212223060015
 */
 
 #include <stdio.h>
