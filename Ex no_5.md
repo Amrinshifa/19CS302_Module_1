@@ -14,8 +14,8 @@ To write a C program to calculate the total marks, average, and percentage of ma
 ```
 /*
 Program to calculate the total marks, average, and percentage of marks obtained in seven subjects.
-Developed by: AASHIKA PARVEEN M R
-RegisterNumber: 212223060002  
+Developed by: AMRIN SHIFA S
+RegisterNumber: 212223060015 
 */
 
 #include <stdio.h>
